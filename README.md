@@ -1,4 +1,4 @@
-# 🌤️ NubiaWeather
+# ![Captura de la app](public/dist/img/logotipo-aeroclima.webp) NubiaWeather
 
 Aplicación web para consultar el clima actual y el pronóstico en cualquier ciudad del mundo en **tiempo real**.  
 Construida con **HTML5, CSS3 (TailwindCSS) y JavaScript**, utilizando una API de clima para obtener datos actualizados de OpenWeather.com.
