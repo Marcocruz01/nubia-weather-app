@@ -415,7 +415,7 @@ function climaActual(data) {
         span.classList.add('bg-red-500/10', 'text-red-500');
         span.textContent = 'Muy mala';
     }
-    // Insertat todo en el contenedor
+    // Insertar todo en el contenedor
     document.getElementById('contenedor-informacion').appendChild(contenedorResumen);
 
     // Creamos el contenedor para el pronostico hoy a las 
@@ -500,7 +500,7 @@ function pronosticoDias(data) {
     // LOGICA PARA OBTENER EL CLIMA DE HOY
     const hoy = new Date().toISOString().split('T')[0];    
     // Filtrar solo los registros de HOY
-    let pronosticoHoras = data.list.filter( item => item.dt_txt.startsWith(hoy));    
+    let pronosticoHoras = data.list.filter( item => item.dt_txt.startsWith(hoy));
     // Limpiar el contenedor antes de renderizar
     const contenedorHoras = document.getElementById('pronostico-horas');    
     if(contenedorHoras) {
@@ -530,7 +530,7 @@ function pronosticoDias(data) {
                 </div>
             </div>
             `;
-                contenedorHoras.innerHTML += card;
+            contenedorHoras.innerHTML += card;
         });
     }
 }
