@@ -7,8 +7,8 @@ Construida con **HTML5, CSS3 (TailwindCSS) y JavaScript**, utilizando una API de
 
 ## 📸 Vista previa
 
-![Captura de la app](public/dist/img/logotipo-aeroclima.webp)
-
+![Captura de la app](public/dist/img/nubiaWeather-light.png)
+![Captura de la app](public/dist/img/nubiaWeather-Dark.png)
 ---
 
 ## ✨ Características
