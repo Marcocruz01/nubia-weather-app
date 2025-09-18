@@ -1,0 +1,32 @@
+{
+  "name": "proyecto-portafolio-nubia-weather",
+  "version": "1.0.0",
+  "description": "“NubiaWeather: Una app web ligera y moderna que muestra el clima actual, pronósticos y condiciones atmosféricas de manera rápida y confiable.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp",
+    "watch": "tailwindcss -i ./src/input.css -o ./public/dist/output.css --watch",
+    "minify": "tailwindcss -i ./src/input.css -o ./dist/output.css --minify"
+  },
+  "keywords": [
+    "weather",
+    "api",
+    "forecast",
+    "web-app",
+    "responsive",
+    "moderno",
+    "openweather"
+  ],
+  "author": "Marco Cruz",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^5.0.1",
+    "gulp-imagemin": "^9.1.0",
+    "gulp-sass": "^6.0.1",
+    "imagemin-jpegtran": "^8.0.0",
+    "imagemin-pngquant": "^10.0.0",
+    "imagemin-webp": "^8.0.0",
+    "sass": "^1.92.1",
+    "tailwindcss": "^3.4.17"
+  }
+}

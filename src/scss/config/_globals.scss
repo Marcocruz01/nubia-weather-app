@@ -1,0 +1,35 @@
+@use 'variables' as v;
+
+body {
+    font-family: v.$font-main;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.contenedor {
+    max-width: 80rem;
+    margin: 0 auto;
+}
+
+.scrollbar-custom::-webkit-scrollbar {
+  height: 6px; /* grosor horizontal */
+}
+
+.scrollbar-custom::-webkit-scrollbar-track {
+  background: transparent; /* fondo transparente */
+}
+
+.scrollbar-custom::-webkit-scrollbar-thumb {
+  background: white; /* la barra en blanco */
+  border-radius: 9999px; /* redondeada */
+}
+
+.scrollbar-custom::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.8); /* efecto hover */
+}
+
+/* Firefox */
+.scrollbar-custom {
+  scrollbar-width: thin;
+  scrollbar-color: rgb(172, 172, 172) transparent;
+}
