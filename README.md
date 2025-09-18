@@ -32,9 +32,9 @@ Construida con **HTML5, CSS3 (TailwindCSS) y JavaScript**, utilizando una API de
 
 ## 🔑 Configuración de API
 
-1.- Regístrate en OpenWeather u otro servicio de clima.
-2.- Obtén tu API Key.
-3.- Colócala en el archivo public/dist/js/api.js.
+- **Regístrate en OpenWeather u otro servicio de clima.**  
+- **Obtén tu API Ke**  
+- **Colócala en el archivo public/dist/js/api.js**
 
 ---
 
