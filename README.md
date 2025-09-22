@@ -11,7 +11,7 @@ Construida con **HTML5, CSS3 (TailwindCSS) y JavaScript**, utilizando una API de
 ![Captura de la app](public/dist/img/nubiaWeather-Dark.png)
 ---
 
-## ✨ Características
+## 🚀 Características
 
 - **Búsqueda de ciudades o países** en tiempo real.  
 - Opción de usar **mi ubicación** para obtener el clima local.  
@@ -21,7 +21,7 @@ Construida con **HTML5, CSS3 (TailwindCSS) y JavaScript**, utilizando una API de
 
 ---
 
-## 🚀 Tecnologías utilizadas
+## ⚙️ Tecnologías utilizadas
 
 - **HTML5**  
 - **CSS3 / TailwindCSS**  
