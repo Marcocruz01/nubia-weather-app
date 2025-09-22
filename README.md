@@ -13,11 +13,11 @@ Construida con **HTML5, CSS3 (TailwindCSS) y JavaScript**, utilizando una API de
 
 ## ✨ Características
 
-- 🔍 **Búsqueda de ciudades o países** en tiempo real.  
-- 📍 Opción de usar **mi ubicación** para obtener el clima local.  
-- 🌡️ Muestra clima actual y **pronóstico de 5 días**.  
-- 🌓 Soporte para **modo claro y oscuro**.  
-- 📱 **Diseño responsive** (funciona en móviles, tablets y escritorio).  
+- **Búsqueda de ciudades o países** en tiempo real.  
+- Opción de usar **mi ubicación** para obtener el clima local.  
+- Muestra clima actual y **pronóstico de 5 días**.  
+- Soporte para **modo claro y oscuro**.  
+- **Diseño responsive** (funciona en móviles, tablets y escritorio).  
 
 ---
 
